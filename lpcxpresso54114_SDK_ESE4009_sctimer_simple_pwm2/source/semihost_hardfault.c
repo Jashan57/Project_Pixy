@@ -53,7 +53,7 @@
 // In most cases this will allow applications containing semihosting
 // operations to execute (to some degree) when the debugger is not connected.
 //
-// == NOTE ==
+//  NOTE
 //
 // Correct execution of the application containing semihosted operations
 // which are vectored onto this hard fault handler cannot be guaranteed. This
