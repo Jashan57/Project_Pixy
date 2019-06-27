@@ -62,7 +62,7 @@
 // is meant as a development aid, and it is not recommended to leave
 // semihosted code in a production build of your application!
 //
-// ****************************************************************************
+// **********************************************************************
 
 // Allow handler to be removed by setting a define (via command line)
 #if !defined (__SEMIHOST_HARDFAULT_DISABLE)
