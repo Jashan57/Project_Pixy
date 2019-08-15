@@ -25,9 +25,10 @@
 
 
 #define SP1_SW_PORT 1U
-#define SP1_SW_PIN  0U
+#define SP1_SW_PIN  0U  
 
 #define DIR_SW_PORT 1U
+
 #define DIR_SW_PIN  12U
 
 #define DIR1_SW_PORT 1U
